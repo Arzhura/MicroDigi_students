@@ -1,5 +1,5 @@
-# MicroDigi_students
-Here you can upload all the idea that you had on the digital twin project named MicroDigi. The official MicroDigi is not yet accessible. 
+# Digital Twins
+Here you can upload youe ideas on the digital twins of the ocean. 
 To add an idea: 
 - Create a file with your idea "name_idea.txt"
 - Add it either with command line:
