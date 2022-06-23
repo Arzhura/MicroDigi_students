@@ -5,4 +5,3 @@ To add an idea:
 - Add it either with command line:
 -  you need to init a repository named "MicroDigi_students"
 -  then **git add** and **git commit** 
--  then 
